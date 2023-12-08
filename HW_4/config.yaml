@@ -1,0 +1,10 @@
+folder_in: /home/user2/folder_in
+folder_out: /home/user2/folder_out
+folder_ex: /home/user2/folder_ex
+folder_ex2: /home/user2/folder_ex2
+count: 5
+bs: 1M
+host: 0.0.0.0
+user: user2
+pswd: 1
+
